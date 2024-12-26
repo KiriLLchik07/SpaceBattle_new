@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SpaceBattle.Lib\SpaceBattle.Lib.csproj" />
+    <ProjectReference Include="..\SpaceBattle_workspace\SpaceBattle_workspace.csproj" />
   </ItemGroup>
 
 </Project>
