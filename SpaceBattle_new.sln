@@ -4,6 +4,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceBattle_workspace", "SpaceBattle_workspace\SpaceBattle_workspace.csproj", "{27957766-6BDF-4A96-8835-53852026E6CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceBattle_Tests", "SpaceBattle_Tests\SpaceBattle_Tests.csproj", "{3313FBA6-2C3A-49AF-A1BF-D80460A7407D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
