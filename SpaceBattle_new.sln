@@ -1,25 +1,27 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.002.0
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceBattle_workspace", "SpaceBattle_workspace\SpaceBattle_workspace.csproj", "{DE8D785F-6CF3-483E-BD24-29248695D6BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceBattle_workspace", "SpaceBattle_workspace\SpaceBattle_workspace.csproj", "{27957766-6BDF-4A96-8835-53852026E6CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceBattle_Tests", "SpaceBattle_Tests\SpaceBattle_Tests.csproj", "{3313FBA6-2C3A-49AF-A1BF-D80460A7407D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DE8D785F-6CF3-483E-BD24-29248695D6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE8D785F-6CF3-483E-BD24-29248695D6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE8D785F-6CF3-483E-BD24-29248695D6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE8D785F-6CF3-483E-BD24-29248695D6BF}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DA4C2C2B-9462-4ABB-9530-B8E343301122}
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27957766-6BDF-4A96-8835-53852026E6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27957766-6BDF-4A96-8835-53852026E6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27957766-6BDF-4A96-8835-53852026E6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27957766-6BDF-4A96-8835-53852026E6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3313FBA6-2C3A-49AF-A1BF-D80460A7407D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3313FBA6-2C3A-49AF-A1BF-D80460A7407D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3313FBA6-2C3A-49AF-A1BF-D80460A7407D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3313FBA6-2C3A-49AF-A1BF-D80460A7407D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
